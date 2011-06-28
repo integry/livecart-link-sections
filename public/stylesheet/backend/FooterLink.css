@@ -1,0 +1,22 @@
+.footerLinkGroup_title
+{
+	font-size: larger;
+	font-weight: bold;
+}
+
+.footerLink_add
+{
+	background-image: url(../../../../image/silk/link_add.png);
+}
+
+.footerLinkGroup_add
+{
+	background-image: url(../../../../image/silk/link.png);
+}
+
+.activeList_editContainer legend.add,
+#footerLink_new_form legend.edit,
+#footerLinkGroup_new_form legend.edit
+{
+	display: none;
+}

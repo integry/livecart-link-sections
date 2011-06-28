@@ -1,0 +1,21 @@
+_add_new_file=Add new link
+_cancel_adding_new_file=Cancel adding new link
+_add_new_group=Add new link group
+
+_add_file_title=Add New Link
+_edit_link=Edit Link
+_footerLink_title=Link title
+_footerLink_url=Link URL
+_footerLink_embedded=Open in new window
+
+_cancel_adding_file_group=Cancel adding link group
+_add_new_file_group_title=Add New Link Group
+_product_file_group_title=Group title
+_edit_group=Edit Link Group
+
+_err_link_title_is_empty=Please enter the link title
+_err_url_is_empty=Please enter the link URL
+_err_group_name_is_empty=Please enter the group name
+
+_are_you_sure_you_want_to_delete_group=Really delete this link group?
+_are_you_sure_you_want_to_delete=Really delete this link?

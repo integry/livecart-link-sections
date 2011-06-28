@@ -1,0 +1,18 @@
+#footerLinks
+{
+	margin-bottom: 1em;
+}
+
+.footerLinkGroup
+{
+	float: left;
+	margin-right: 1em;
+	padding-right: 1em;
+	text-align: left;
+	border-right-width: 1px;
+}
+
+.footerLinkGroupTitle
+{
+	font-weight: bold;
+}
